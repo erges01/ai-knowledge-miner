@@ -1,9 +1,4 @@
 ---
-## 🧠 AI Knowledge Miner  
-**A Retrieval-Augmented Generation (RAG) system built with Node.js, TypeScript, OpenAI & Pinecone**
-
----
-
 ## 🚀 Overview  
 
 **AI Knowledge Miner** is a lightweight Retrieval-Augmented Generation (RAG) pipeline.  
