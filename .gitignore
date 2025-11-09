@@ -1,2 +1,8 @@
+# Secret API keys
 .env
+
+# Node.js dependencies
 node_modules/
+
+# TypeScript compiled output
+dist/
