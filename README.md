@@ -1,4 +1,10 @@
+# 🧠 AI Knowledge Miner  
+**A Retrieval-Augmented Generation (RAG) system built with Node.js, TypeScript, OpenAI & Pinecone**
+
+> “Teach your AI to *remember*, *search*, and *reason*.”  
+
 ---
+
 ## 🚀 Overview  
 
 **AI Knowledge Miner** is a lightweight Retrieval-Augmented Generation (RAG) pipeline.  
@@ -96,7 +102,9 @@ Generation: OpenAI uses those results to answer intelligently — with context a
 
 🧑‍💻 Author
 
- Adé Sopé 
+Devyy Adee
+
+> “Vibe coding but it’s getting dangerous.”
 
 
 
@@ -116,4 +124,3 @@ MIT © 2025
 Use freely, build smarter.
 
 ---
-
