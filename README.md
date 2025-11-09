@@ -1,5 +1,4 @@
 ---
-
 # 🧠 AI Knowledge Miner  
 **A Retrieval-Augmented Generation (RAG) system built with Node.js, TypeScript, OpenAI & Pinecone**
 
@@ -104,9 +103,7 @@ Generation: OpenAI uses those results to answer intelligently — with context a
 
 🧑‍💻 Author
 
-Devyy Adee
-
-> “Vibe coding but it’s getting dangerous.”
+ Adé Sopé 
 
 
 
