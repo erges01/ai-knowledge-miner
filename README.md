@@ -104,7 +104,7 @@ Generation: OpenAI uses those results to answer intelligently — with context a
 
 Devyy Adee
 
-> “Vibe coding but it’s getting dangerous.”
+> “Vibing, but it’s getting dangerous😵💀.”
 
 
 
