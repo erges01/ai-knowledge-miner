@@ -1,5 +1,5 @@
 ---
-# 🧠 AI Knowledge Miner  
+## 🧠 AI Knowledge Miner  
 **A Retrieval-Augmented Generation (RAG) system built with Node.js, TypeScript, OpenAI & Pinecone**
 
 ---
